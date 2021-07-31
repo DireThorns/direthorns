@@ -1,0 +1,70 @@
+body{
+font-family: 'times new roman' , times, serif;
+background-color:#000000;
+}
+
+#container{
+width:1080px;
+margin: 0 auto;
+padding:1px;
+background-color:#000;
+}
+
+#navigation{
+height:60px;
+border:3px solid #e3e3e3;
+margin-top:5px;
+background-image: url(../images/background.png);
+}
+
+ul#navmenu{
+list-style-type:none;
+font-size:20px;
+}
+
+ul#navmenu li{
+width:140px;
+text-align:center;
+float:left;
+margin-right:4px;
+}
+
+ul#navmenu a {
+text-decoration:none;
+display: block;
+width: 110px;
+height:25px;
+background-color:#fff;
+border: 1px solid #ccc;
+border-radius: 5px;
+}
+
+#banner{
+height:350px;
+background-image:url(../images/lowermer.png);
+background-size:cover;
+}
+
+#logotshirt{
+text-align:center;
+width:250px;
+margin:20px 418px 20px 418px;
+border:3px solid #e3e3e3;
+color:white
+}
+
+.img1{
+text-align:center;
+margin: 0px 10px 10px 0px;
+padding: 5px;
+}
+
+#footer{
+clear:both;
+width: auto;
+height: 20px;
+padding: 20px;
+background-image:url(../images/background.png);
+color:#e3e3e3;
+text-align:center;
+}
