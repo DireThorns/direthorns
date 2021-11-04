@@ -83,9 +83,17 @@ border:3px solid #e3e3e3;
 color:white
 }
 
+#mv5{
+float:left;
+width:520px;
+margin:20px 275px 20px 275px;
+border:3px solid #e3e3e3;
+color:white
+}
+
 #gig1{
 float:left;
-width:530px;
+width:520px;
 margin:20px 0 20px 0;
 border:3px solid #e3e3e3;
 color:white
@@ -93,7 +101,7 @@ color:white
 
 #gig2{
 float:right;
-width:530px;
+width:520px;
 margin:20px 0 20px 0;
 border:3px solid #e3e3e3;
 color:white
@@ -101,7 +109,7 @@ color:white
 
 #gig3{
 float:left;
-width:530px;
+width:520px;
 margin:20px 275px 20px 275px;
 border:3px solid #e3e3e3;
 color:white
