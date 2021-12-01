@@ -110,7 +110,15 @@ color:white
 #gig3{
 float:left;
 width:520px;
-margin:20px 275px 20px 275px;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color:white
+}
+
+#gig4{
+float:right;
+width:520px;
+margin:20px 0 20px 0;
 border:3px solid #e3e3e3;
 color:white
 }
