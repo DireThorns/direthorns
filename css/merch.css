@@ -46,6 +46,7 @@ background-size:cover;
 }
 
 #logotshirt{
+float:left;
 text-align:center;
 width:250px;
 margin:2px 0px 2px 0px;
@@ -54,6 +55,7 @@ color:white
 }
 
 #slogantshirt{
+float:left;
 text-align:center;
 width:250px;
 margin:2px 0px 2px 0px;
