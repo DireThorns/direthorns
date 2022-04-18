@@ -45,20 +45,11 @@ background-image:url(../images/lowermer.png);
 background-size:cover;
 }
 
-#logotshirt{
-float:left;
-text-align:center;
-width:250px;
-margin:20px 10px 20px 280px;
-border:3px solid #e3e3e3;
-color:white
-}
-
 #slogantshirt{
 float:left;
 text-align:center;
 width:250px;
-margin:20px 0px 20px 10px;
+margin:20px 280px 20px 10px;
 border:3px solid #e3e3e3;
 color:white
 }
