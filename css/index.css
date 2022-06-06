@@ -1,0 +1,244 @@
+body{
+font-family: 'times new roman' , times, serif;
+background-color:#000000;
+}
+
+#container{
+width:1080px;
+margin: 0 auto;
+padding:1px;
+background-color:#000;
+}
+
+#line{
+width: 1080px;
+height: 60px;
+background-size:cover;
+}
+
+#ourstory{
+text-align: center;
+width:1080px;
+margin:20px 0 20px 0;
+border:1px solid #000000;
+color:white
+}
+
+#merch{
+text-align: center;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color:white
+width: 1080px;
+height: 540px;
+}
+
+.mer{
+text-align: center;
+margin: 10px 10px 10px 10px;
+padding: 10px;
+width:384px;
+height:480px;
+}
+
+.merbac1{
+float:left;
+width:250px;
+margin: 130px 0 0 20px;
+}
+
+.merbac2{
+float:right;
+width:250px;
+margin: 0 20px 100px 0;
+}
+
+#shows1{
+float:left;
+width:500px;
+height:320px;
+margin:0px 30px 40px 0;
+border:3px solid #e3e3e3;
+color:white
+}
+
+.gig9{
+float:left;
+margin: 17px 10px 10px 10px;
+padding: 10px;
+width:200px;
+}
+
+.gigtext1{
+float:left;
+text-align: center;
+width:200px;
+margin: 10px 10px 10px 10px;
+padding: 10px;
+}
+
+#shows2{
+float:right;
+width:500px;
+height:320px;
+margin:0px 0 40px 30px;
+border:3px solid #e3e3e3;
+color:white
+}
+
+.gig10{
+float:left;
+margin: 5px 5px 5px 5px;
+padding: 10px;
+width:200px;
+}
+
+.gigtext2{
+float:left;
+text-align: center;
+width:200px;
+margin: 0px 10px 0px 10px;
+padding: 10px;
+}
+
+#lastshow{
+text-align: center;
+width:1080px;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color:white
+}
+
+.gigpic{
+text-align: center;
+margin: 10px 10px 10px 10px;
+padding: 10px;
+width:500px;
+}
+
+#mvs{
+text-align: center;
+width:1080px;
+height:565px;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color:white
+}
+
+.cutart{
+float:left;
+margin: 10px 10px 5px 10px;
+padding: 10px;
+width:250px;
+}
+
+.fearart{
+text-align: center;
+margin: 10px 10px 5px 10px;
+padding: 10px;
+width:250px;
+}
+
+.cmnart{
+float:right;
+margin: 10px 10px 5px 10px;
+padding: 10px;
+width:250px;
+}
+
+.suart{
+float:left;
+margin: 5px 10px 10px 10px;
+padding: 10px;
+width:250px;
+}
+
+.trart{
+text-align: center;
+margin: 5px 10px 10px 10px;
+padding: 10px;
+width:250px;
+}
+
+.morbidityart{
+float:right;
+margin: 5px 10px 10px 10px;
+padding: 10px;
+width:250px;
+}
+
+#about1{
+text-align: center;
+width:1060px;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color:white
+}
+
+.text{
+text-align: center;
+margin: 0px 10px 10px 0px;
+padding: 10px;
+}
+
+.img1{
+text-align: center;
+margin: 0px 10px 10px 0px;
+padding: 5px;
+}
+
+.img2{
+text-align: center;
+margin: 0px 10px 10px 0px;
+padding: 5px;
+}
+
+.img3{
+text-align: center;
+margin: 0px 10px 10px 0px;
+padding: 5px;
+}
+
+.img4{
+text-align: center;
+margin: 0px 10px 10px 0px;
+padding: 5px;
+}
+
+.img5{
+text-align: center;
+margin: 0px 10px 10px 0px;
+padding: 5px;
+}
+
+#links{
+text-align: center;
+width:1080px;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color:white
+}
+
+.llogo{
+float:right;
+width:100px;
+margin:25px 10px 10px 10px;
+padding: 5px;
+}
+
+.glogo{
+float:left;
+width:100px;
+margin:30px 10px 10px 10px;
+padding: 5px;
+}
+
+#footer{
+clear:both;
+width: auto;
+height: 40px;
+padding: 20px;
+background-image:url(../images/background.png);
+color:#e3e3e3;
+text-align:center;
+}
