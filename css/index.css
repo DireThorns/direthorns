@@ -72,7 +72,7 @@ color:white
 }
 
 #shows3{
-text-align: center;
+float:left;
 width:500px;
 height:320px;
 margin:0px 15px 40px 15px;
@@ -81,13 +81,6 @@ color:white
 }
 
 .gig10{
-float:left;
-margin: 5px 5px 5px 5px;
-padding: 10px;
-width:200px;
-}
-
-.gig11{
 float:left;
 margin: 5px 5px 5px 5px;
 padding: 10px;
