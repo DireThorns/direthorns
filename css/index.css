@@ -21,16 +21,25 @@ text-align: center;
 width:1080px;
 margin:20px 0 20px 0;
 border:1px solid #000000;
-color:white
+color: white;
 }
 
 #merch{
 text-align: center;
 margin:20px 0 20px 0;
 border:3px solid #e3e3e3;
-color:white
+color: white;
 width: 1080px;
 height: 540px;
+}
+
+#ns{
+text-align: center;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color: white;
+width: 1080px;
+height: 500px;
 }
 
 .ns{
