@@ -24,7 +24,7 @@ border:1px solid #000000;
 color: white;
 }
 
-#ns{
+#sos{
 text-align: center;
 margin:20px 0 20px 0;
 border:3px solid #e3e3e3;
@@ -33,20 +33,29 @@ width: 1080px;
 height: 500px;
 }
 
-.ns{
-float: left;
-margin: 10px 10px 10px 10px;
-padding: 10px;
-width:250px;
-height:250px;
-}
-
 .sos{
 float: left;
 margin: 10px 10px 10px 10px;
 padding: 10px;
 width:480px;
 height:480px;
+}
+
+#ns{
+text-align: center;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color: white;
+width: 1080px;
+height: 270px;
+}
+
+.ns{
+float: left;
+margin: 10px 10px 10px 10px;
+padding: 10px;
+width:250px;
+height:250px;
 }
 
 #merch{
