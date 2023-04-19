@@ -24,15 +24,6 @@ border:1px solid #000000;
 color: white;
 }
 
-#merch{
-text-align: center;
-margin:20px 0 20px 0;
-border:3px solid #e3e3e3;
-color: white;
-width: 1080px;
-height: 340px;
-}
-
 #ns{
 text-align: center;
 margin:20px 0 20px 0;
@@ -46,8 +37,25 @@ height: 500px;
 float: left;
 margin: 10px 10px 10px 10px;
 padding: 10px;
+width:250px;
+height:250px;
+}
+
+.sos{
+float: left;
+margin: 10px 10px 10px 10px;
+padding: 10px;
 width:480px;
 height:480px;
+}
+
+#merch{
+text-align: center;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color: white;
+width: 1080px;
+height: 340px;
 }
 
 .mer{
@@ -57,56 +65,6 @@ padding: 10px;
 width:300px;
 height:300px;
 color:white;
-}
-
-#shows1{
-float:left;
-width:505px;
-height:320px;
-margin:0px 15px 40px 15px;
-border:3px solid #e3e3e3;
-color:white
-}
-
-#shows2{
-float:right;
-width:505px;
-height:320px;
-margin:0px 15px 40px 15px;
-border:3px solid #e3e3e3;
-color:white
-}
-
-#shows3{
-float:left;
-width:500px;
-height:320px;
-margin:0px 290px 40px 290px;
-border:3px solid #e3e3e3;
-color:white
-}
-
-.gig10{
-float:left;
-margin: 5px 5px 5px 5px;
-padding: 10px;
-width:200px;
-}
-
-.gigtext2{
-float:left;
-text-align: center;
-width:200px;
-margin: 0px 10px 0px 10px;
-padding: 10px;
-}
-
-.comingsoon{
-float:left;
-text-align: center;
-height:300px;
-margin: 0px 10px 0px 10px;
-padding: 10px;
 }
 
 #lastshow{
@@ -122,57 +80,6 @@ text-align: center;
 margin: 10px 10px 10px 10px;
 padding: 10px;
 width:500px;
-}
-
-#mvs{
-text-align: center;
-width:1080px;
-height:565px;
-margin:20px 0 20px 0;
-border:3px solid #e3e3e3;
-color:white
-}
-
-.cutart{
-float:left;
-margin: 10px 10px 5px 10px;
-padding: 10px;
-width:250px;
-}
-
-.fearart{
-text-align: center;
-margin: 10px 10px 5px 10px;
-padding: 10px;
-width:250px;
-}
-
-.cmnart{
-float:right;
-margin: 10px 10px 5px 10px;
-padding: 10px;
-width:250px;
-}
-
-.suart{
-float:left;
-margin: 5px 10px 10px 10px;
-padding: 10px;
-width:250px;
-}
-
-.trart{
-text-align: center;
-margin: 5px 10px 10px 10px;
-padding: 10px;
-width:250px;
-}
-
-.morbidityart{
-float:right;
-margin: 5px 10px 10px 10px;
-padding: 10px;
-width:250px;
 }
 
 #about1{
