@@ -1,0 +1,142 @@
+body{
+font-family: 'times new roman' , serif, serif;
+background-image: url('images/Dire Thorns Background.jpg');
+}
+
+#container{
+width:1080px;
+margin: 0 auto;
+padding:1px;
+background-color:rgba(0,0,0,0.0);
+}
+
+#logo{
+text-align: center;
+margin:20px 0 20px 0;
+height:400px;
+}
+
+.logo{
+text-align: center;
+margin: 10px 10px 10px 10px;
+padding: 10px;
+height:450px;
+}
+
+#ourstory{
+text-align: center;
+width:1080px;
+margin:20px 0 20px 0;
+color: white;
+}
+
+#pics{
+background-color:#000000;
+width: 1080px;
+height: 540px;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+text-align: center;
+animation:slider 20s infinite linear;
+}
+
+@keyframes slider{
+0%{background-image: url('images/img1.jpg');
+background-size: 100% 100%;}
+20%{background-image: url('images/img1.jpg');
+background-size: 100% 100%;}
+25%{background-image: url('images/img2.jpg');
+background-size: 100% 100%;}
+45%{background-image: url('images/img2.jpg');
+background-size: 100% 100%;}
+50%{background-image: url('images/img3.jpg');
+background-size: 100% 100%;}
+70%{background-image: url('images/img3.jpg');
+background-size: 100% 100%;}
+75%{background-image: url('images/img4.jpg');
+background-size: 100% 100%;}
+95%{background-image: url('images/img4.jpg');
+background-size: 100% 100%;}
+100%{background-image: url('images/img1.jpg');
+background-size: 100% 100%;}
+}
+
+#sos{
+text-align: center;
+background-color:#000000;
+width:1080px;
+height:520px;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color: white;
+}
+
+.sos{
+float: left;
+margin: 10px 10px 10px 10px;
+padding: 10px;
+width: 480px;
+height: 480px;
+}
+
+#merch{
+background-color:#000000;
+text-align: center;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color: white;
+width: 1080px;
+height: 340px;
+}
+
+.mer{
+float: left;
+margin: 10px 10px 10px 10px;
+padding: 10px;
+width:300px;
+height:300px;
+}
+
+#lastshow{
+text-align: center;
+width:1080px;
+height:320px;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color:white;
+background-color:#000000;
+}
+
+#about1{
+background-color:#000000;
+text-align: center;
+width:1060px;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color:white;
+}
+
+.text{
+text-align: center;
+margin: 0px 10px 10px 0px;
+padding: 10px;
+}
+
+#links{
+text-align: center;
+background-color:#000000;
+width:1080px;
+margin:20px 0 20px 0;
+border:3px solid #e3e3e3;
+color:white;
+}
+
+#footer{
+clear:both;
+width: auto;
+height: 40px;
+padding: 20px;
+background-image:url(../images/background.png);
+color:#e3e3e3;
+text-align:center;
+}
