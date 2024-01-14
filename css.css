@@ -43,19 +43,27 @@ animation:slider 20s infinite linear;
 @keyframes slider{
 0%{background-image: url('images/img1.jpg');
 background-size: 100% 100%;}
-20%{background-image: url('images/img1.jpg');
+15%{background-image: url('images/img1.jpg');
 background-size: 100% 100%;}
-25%{background-image: url('images/img2.jpg');
+17%{background-image: url('images/img2.jpg');
 background-size: 100% 100%;}
-45%{background-image: url('images/img2.jpg');
+31%{background-image: url('images/img2.jpg');
 background-size: 100% 100%;}
-50%{background-image: url('images/img3.jpg');
+33%{background-image: url('images/img3.jpg');
 background-size: 100% 100%;}
-70%{background-image: url('images/img3.jpg');
+48%{background-image: url('images/img3.jpg');
 background-size: 100% 100%;}
-75%{background-image: url('images/img4.jpg');
+50%{background-image: url('images/img4.jpg');
 background-size: 100% 100%;}
-95%{background-image: url('images/img4.jpg');
+65%{background-image: url('images/img4.jpg');
+background-size: 100% 100%;}
+67%{background-image: url('images/img5.jpg');
+background-size: 100% 100%;}
+82%{background-image: url('images/img5.jpg');
+background-size: 100% 100%;}
+84%{background-image: url('images/img6.jpg');
+background-size: 100% 100%;}
+98%{background-image: url('images/img6.jpg');
 background-size: 100% 100%;}
 100%{background-image: url('images/img1.jpg');
 background-size: 100% 100%;}
