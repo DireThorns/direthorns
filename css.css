@@ -117,6 +117,7 @@ background-color:#000000;
 
 .pix4tix{
 position:absolute;
+display:flex;
 float: left;
 }
 
