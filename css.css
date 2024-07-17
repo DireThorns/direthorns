@@ -121,6 +121,7 @@ float: left;
 }
 
 .gig{
+text-align: center;
 grid-column: 1;
 grid-row: 1;
 float: left;
