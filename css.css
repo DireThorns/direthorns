@@ -106,6 +106,7 @@ height:300px;
 }
 
 #lastshow{
+display:grid;
 text-align: center;
 width:1080px;
 height:340px;
@@ -116,12 +117,12 @@ background-color:#000000;
 }
 
 .pix4tix{
-position: relative;
 float: left;
 }
 
 .gig{
-position: relative;
+grid-column: 1;
+grid-row: 1;
 float: left;
 margin: 10px 10px 10px 10px;
 padding: 10px;
