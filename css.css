@@ -116,10 +116,12 @@ background-color:#000000;
 }
 
 .pix4tix{
+position: absolute;
 float: left;
 }
 
 .gig{
+position: relative;
 text-align: center;
 margin: 10px 10px 10px 10px;
 padding: 10px;
