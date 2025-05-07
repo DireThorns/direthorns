@@ -62,6 +62,15 @@ width: 300px;
 height: 300px;
 }
 
+.singleart{
+float: right;
+margin: 10px 10px 10px 10px;
+padding: 10px;
+width: 60px;
+height: 60px;
+}
+
+
 #merch{
 background-color:#000000;
 text-align: center;
