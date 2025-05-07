@@ -133,8 +133,7 @@ padding: 10px;
 
 .hovertext {
   color: white;
-  font-size: 20px;
-  position: absolute;
+  font-size: 15px;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
