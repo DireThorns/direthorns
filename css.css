@@ -73,18 +73,6 @@ transition: transform .2s;
 transform:scale(1.2);
 }
 
-.hovertext:hover{
-  color: white;
-  font-size: 15px;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  text-align: center;
-}
-
-
 #merch{
 background-color:#000000;
 text-align: center;
