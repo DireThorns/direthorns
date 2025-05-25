@@ -108,16 +108,8 @@ height:300px
 margin:20px 0px 20px 0px;
 border:3px solid #e3e3e3;
 color:white;
-background-color:#000000;
+background-image: url('images/thmtourbanner.PNG');
   a:hover {font-size:110%;};
-}
-
-.gig{
-text-align: center;
-margin: 10px 10px 10px 10px;
-padding: 10px;
-height:310px;
-width:219px;
 }
 
 #about1{
