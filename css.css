@@ -110,6 +110,7 @@ border:3px solid #e3e3e3;
 color:white;
 background-color:#000000;
   a:hover {transform:scale(1.1);
+  a:color: #ffffff; text-decoration: none;
 }
 
 .gig{
