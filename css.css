@@ -102,13 +102,6 @@ color:white;
 background-color:#000000;
 }
 
-.pix4tix{
-position:absolute;
-display:flex;
-float: left;
-pointer-events: none
-}
-
 .gig{
 text-align: center;
 margin: 10px 10px 10px 10px;
