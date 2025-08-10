@@ -111,7 +111,7 @@ background-color:#000000;
 }
 
 #tour{
-text-align: right;
+text-align: center;
 align-self: center;
 width:1080px;
 height:200px;
@@ -154,4 +154,5 @@ background-image:url(../images/background.png);
 color:#e3e3e3;
 text-align:center;
 }
+
 
