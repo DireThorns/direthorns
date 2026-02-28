@@ -42,7 +42,6 @@ color: white;
 #pics{
 background-color:#000000;
 width: 1080px;
-height: 459px;
 margin:20px 0 20px 0;
 border:3px solid #e3e3e3;
 text-align: center;
@@ -154,5 +153,6 @@ background-image:url(../images/background.png);
 color:#e3e3e3;
 text-align:center;
 }
+
 
 
